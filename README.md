@@ -15,7 +15,7 @@ It also includes a Spotify playlist to vibe along with while reading. 🎵
 
 ## 🚀 How to View
 Visit the live site here:  
-👉 [https://your-username.github.io/daily-quotes-site](https://your-username.github.io/daily-quotes-site)  
+👉 [https://your-username.github.io/daily-quotes-site](https://ixxvimmv.github.io/daily-of-quotes)  
  
 ---
 
