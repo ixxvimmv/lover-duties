@@ -15,7 +15,7 @@ It also includes a Spotify playlist to vibe along with while reading. 🎵
 
 ## 🚀 How to View
 Visit the live site here:  
-👉 [https://ixxvimmv.github.io/lover-duties/](https://ixxvimmv.github.io/lover-duties/)  
+👉 [https://ixxvimmv.github.io/for-my-beloved/](https://ixxvimmv.github.io/for-my-beloved/)
  
 ---
 
